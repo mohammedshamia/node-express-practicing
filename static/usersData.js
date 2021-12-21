@@ -1,0 +1,22 @@
+export const usersData=[
+    {
+        name:"Shoman",
+        id:"22",
+        age:22
+    },
+    {
+        name:"Naim",
+        id:"15",
+        age:26
+    },
+    {
+        name:"Rola",
+        id:"35",
+        age:22
+    },
+    {
+        name:"Hadeel",
+        id:"45",
+        age:20
+    },
+]
